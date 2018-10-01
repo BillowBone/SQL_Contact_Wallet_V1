@@ -1,5 +1,5 @@
 # SQL_Contact_Wallet_V1
-Program that manage a contact wallet with SQL Server 2017 in a terminal console
+Program that manages a contact wallet with SQL Server 2017 in a terminal console
 
 The database contains 2 tables :
 
